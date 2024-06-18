@@ -1,4 +1,4 @@
-Home Furniture 
+<h1>Home Furniture</h1>
  
 The Home Furniture app lists rooms and furniture and allows users to share furniture items with other apps on the device.
 
